@@ -1,4 +1,4 @@
-# Using the iOS Camera app
+# Filming with the iOS Camera app
 
 1. In the Camera app, tap and drag select Video to set it as capture mode.
 2. To focus the iPad/ iPhone on a particular person or object, tap that area on the screen.
