@@ -8,7 +8,7 @@
 6. On the Mac, click the Desktop to enter Finder mode. In the menu bar, click Go and select Applications. 
 7. In Applications, open Image Capture.
 8. Open a Finder window and navigate to your project folder.
-9. In Image Capture, select the media files you'd like copy to your project folder. Command-click media files to select several files at the same time.
+9. In Image Capture, select the media files you'd like copy to your project folder. Press and hold the Command key while clicking media files to select several at the same time.
 10. Click and drag the selected media files into your project folder.
 
 
