@@ -1,4 +1,4 @@
-# Filming with the Camera app
+# Shooting video with the Camera app
 
 When shooting video with an iPad/ iPhone, position the device in landscape mode before pressing the record button. If you start filming in portrait mode and then rotate the iPad/ iPhone to landscape mode, your footage will not rotate. 
 
