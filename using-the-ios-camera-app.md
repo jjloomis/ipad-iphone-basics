@@ -2,7 +2,7 @@
 
 When shooting video with an iPad/ iPhone, position the device in landscape mode before pressing the record button. If you start filming in portrait mode and then rotate the iPad/ iPhone to landscape mode, your footage will not rotate. 
 
-1. Slide the slide to unlock text at the bottom of the screen to get into iOS.
+1. Slide the slide to unlock text at the bottom of the screen to access iOS.
 2. In iOS, tap the Camera app.
 3. In the Camera app, drag select Video to set it as the capture mode.
 4. Make sure the iPad/ iPhone is in landscape mode.
