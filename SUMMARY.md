@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting started](getting-started.md)
-* [Taking photos with iPhone\/ iPade](taking-photos-with-iphone-ipade.md)
+* [Taking photos with the Camera app](taking-photos-with-iphone-ipade.md)
 * [Filming with the iOS Camera app](using-the-ios-camera-app.md)
 * [Copying media files from iPad\/ iPhone to project folder](copying-media-files-from-ipad-iphone-to-project-folder.md)
 
