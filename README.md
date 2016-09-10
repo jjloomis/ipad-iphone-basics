@@ -1,4 +1,4 @@
-# ipad\/ iPhone Basics
+# ipad\/ iPhone: Capturing and Copying Media Files to your Project Folder
 
 ## About
 
