@@ -6,7 +6,7 @@ Instructions for Journalism, Advertising, and Media Studies students at UW-Milwa
 
 ## Credits
 
-Written by JJ Loomis
+Written by Jeffrey John Loomis
 
 ## Other formats
 
