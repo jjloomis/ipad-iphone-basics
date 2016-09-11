@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Taking Photos with the Camera App](taking-photos-with-iphone-ipade.md)
-* [Copying Media Files from an iPad\/ iPhone to Your Project Folder](copying-media-files-from-ipad-iphone-to-project-folder.md)
+* [Copying Media Files from an iPad&sol; iPhone to Your Project Folder](copying-media-files-from-ipad-iphone-to-project-folder.md)
 * [Shooting Video with the Camera App](using-the-ios-camera-app.md)
 
