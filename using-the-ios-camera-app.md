@@ -4,7 +4,7 @@ When shooting video with an iPad\/ iPhone, position the device in landscape mode
 
 1. Slide the slide to unlock text at the bottom of the screen to access iOS.
 2. In iOS, tap the Camera app.
-3. In the Camera app, drag select Video to set it as the capture mode.
+3. In the Camera app, drag-select Video to set it as the capture mode.
 4. Position the iPad\/ iPhone in landscape mode.
 5. To focus the iPad\/ iPhone on a particular person or object, tap that area of the screen.
 6. To zoom in or out, touch the screen with two fingers and pinch expand the viewing area. You can also do this using the slider at the bottom of the screen.
