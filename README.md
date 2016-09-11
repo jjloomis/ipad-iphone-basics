@@ -2,7 +2,7 @@
 
 ## About
 
-Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
+iPad\/ iPhone: Capturing and Copying Media Files to Your Project Folder for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/ "Journalism, Advertising, and Media Studies website") students at [UW-Milwaukee](http://uwm.edu/ "UW–Milwaukee website").
 
 ## Credits
 
