@@ -1,4 +1,4 @@
-# ipad&sol; iPhone: Capturing and Copying Media Files to Your Project Folder
+# ipad&sol; iPhone: Capturing and Copying Media Files into Your Project Folder
 
 ## About
 
