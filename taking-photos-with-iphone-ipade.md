@@ -1,4 +1,4 @@
-# Taking photos with the Camera app
+# Taking Photos with the Camera App
 
 When taking photos with an iPad\/ iPhone, position the device in landscape mode by default. Only use portrait mode if there is a justifiable reason to do so.
 
