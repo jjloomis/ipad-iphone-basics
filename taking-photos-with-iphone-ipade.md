@@ -9,5 +9,5 @@ When taking photos with an iPad\/ iPhone, position the device in landscape mode 
 5. To focus the iPad\/ iPhone on a particular person or object, tap that area of the screen.
 6. To zoom in or out, touch the screen with two fingers and pinch expand the viewing area. You can also do this using the slider at the bottom of the screen.
 7. Tap the red** **`record`** **button to take a photo. Your photos will automatically save to the Photos app.
-8. To exit the Camera app, press the Home button on the iPad\/ iPhone.
+8. To exit the Camera app, press the `Home` button on the iPad\/ iPhone.
 
