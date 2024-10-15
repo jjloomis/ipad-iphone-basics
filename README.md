@@ -8,10 +8,6 @@ iPad/ iPhone: Capturing and Copying Media Files to Your Project Folder for [Jour
 
 Written by Jeffrey John Loomis
 
-## Other formats
-
-PDF, Mobi, and ePub versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/ipad-iphone-basics/details).
-
 ## GitHub
 
 To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/ipad-iphone-basics).
